@@ -1,14 +1,14 @@
 
 # net.cactusthorn.jmh
 
-Collection of JMH benchmarks
+Collection of JMH (Java Microbenchmark Harness) benchmarks
 
-## Hints
+## FYI
 
+* http://openjdk.java.net/projects/code-tools/jmh/
 * JMH required JDK (JRE is not enough)
 * https://stackoverflow.com/questions/40311990/run-jmh-benchmark-under-eclipse
-  * Select Maven Build and specify goals as **clean install** (c)
-
+  * Select Maven Build and specify goals as **clean install**
 
 # License
 
